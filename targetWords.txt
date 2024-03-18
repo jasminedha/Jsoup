@@ -1,0 +1,11 @@
+toy
+power
+battery
+alkaline
+car
+light
+move 
+speed 
+strength
+powerful
+efficient
